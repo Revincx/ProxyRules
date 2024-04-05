@@ -7,3 +7,5 @@ DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,o33249.ingest.sentry.io
 DOMAIN-SUFFIX,ingest.sentry.io
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
