@@ -1,0 +1,61 @@
+# GitHub
+
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
+
+# YouTube
+
+DOMAIN-KEYWORD,youtube
+DOMAIN,youtubei.googleapis.com
+DOMAIN,yt3.ggpht.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,withyoutube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtubeeducation.com
+DOMAIN-SUFFIX,youtubegaming.com
+DOMAIN-SUFFIX,youtubekids.com
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,ytimg.com
+
+# Hugging Face
+
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,huggingface.com
+DOMAIN-SUFFIX,hf.co
+
+# Arxiv
+
+DOMAIN-SUFFIX,arxiv.org
+DOMAIN-SUFFIX,arxiv-vanity.com
+
+# ACM Digital Library
+
+DOMAIN-SUFFIX,acm.org
+DOMAIN-SUFFIX,dl.acm.org
+
+# IEEE Xplore
+
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,ieeexplore.ieee.org
+
+# Reddit
+
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+
+# Discord
+
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discordcdn.com
+
