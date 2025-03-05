@@ -12,4 +12,6 @@ DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,clients6.google.com
 DOMAIN,gemini.google.com
