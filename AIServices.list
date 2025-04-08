@@ -1,3 +1,5 @@
+# OpenAI
+
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,auth0.com
@@ -7,11 +9,36 @@ DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMIAN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,o33249.ingest.sentry.io
 DOMAIN-SUFFIX,ingest.sentry.io
+
+# Claude 
+
 DOMAIN-SUFFIX,claude.ai
+DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
+
+# Google AI Studio & Gemini
+
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,clients6.google.com
+DOMAIN-SUFFIX,generativeai.google
 DOMAIN,gemini.google.com
+DOMAIN,generativelanguage.googleapis.com
+
+# Microsoft Copilot
+
+DOMAIN,api.msn.com
+DOMAIN,api.statsig.com
+DOMAIN,assets.msn.com
+DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN,copilot.microsoft.com
+DOMAIN,gateway.bingviz.microsoft.net
+DOMAIN,gateway.bingviz.microsoftapp.net
+DOMAIN,location.microsoft.com
+DOMAIN,odc.officeapps.live.com
+DOMAIN,openai-api.arkoselabs.com
+DOMAIN,services.bingapis.com
+DOMAIN-KEYWORD,openaicom-api
