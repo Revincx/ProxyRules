@@ -1,7 +1,6 @@
 # GitHub
 
-DOMAIN-KEYWORD,github
-DOMAIN-SUFFIX,github.com
+DOMAIN,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
