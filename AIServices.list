@@ -27,6 +27,8 @@ DOMAIN-SUFFIX,clients6.google.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN,gemini.google.com
 DOMAIN,generativelanguage.googleapis.com
+DOMAIN,notebooklm.google
+DOMAIN,notebooklm.google.com
 
 # Microsoft Copilot
 
