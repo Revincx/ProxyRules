@@ -18,9 +18,14 @@ DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN-SUFFIX,claude.ai
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
 
 # Google AI Studio & Gemini
 
+DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,developerprofiles
+DOMAIN-KEYWORD,generativelanguage
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,clients6.google.com
@@ -48,3 +53,14 @@ DOMAIN,odc.officeapps.live.com
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN,services.bingapis.com
 DOMAIN-KEYWORD,openaicom-api
+
+# GitHub Copilot
+
+DOMAIN,api.githubcopilot.com
+
+# Google Antigravity
+
+DOMAIN,antigravity-unleash.goog
+DOMAIN,antigravity.google
+DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
+DOMAIN-SUFFIX,us-central1.run.app
