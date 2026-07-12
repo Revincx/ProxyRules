@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.site
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,o33249.ingest.sentry.io
 DOMAIN-SUFFIX,ingest.sentry.io
