@@ -66,6 +66,10 @@ DOMAIN,antigravity.google
 DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
 DOMAIN-SUFFIX,us-central1.run.app
 
+# OpenRouter
+
+DOMAIN-SUFFIX,openrouter.ai
+
 # payment
 
 DOMAIN-SUFFIX,stripe.com
