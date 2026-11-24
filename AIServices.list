@@ -66,6 +66,20 @@ DOMAIN,antigravity.google
 DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
 DOMAIN-SUFFIX,us-central1.run.app
 
+# Google Cloud Code
+
+DOMAIN,cloudcode-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.googleapis.com
+DOMAIN,cloudcode-experiments.googleapis.com
+DOMAIN,cloudaicompanion.googleapis.com
+DOMAIN,aicode.googleapis.com
+DOMAIN-SUFFIX,aicode.googleapis.com
+
+# Vertex AI
+
+DOMAIN,aiplatform.googleapis.com
+DOMAIN-SUFFIX,aiplatform.googleapis.com
+
 # OpenRouter
 
 DOMAIN-SUFFIX,openrouter.ai
